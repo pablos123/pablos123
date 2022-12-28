@@ -20,6 +20,7 @@
 
 - 🌱 I’m currently learning...
   - Rust
+  - Typescript
 
 - 📫 How to reach me: 
   - pablosaavedra123@gmail.com
