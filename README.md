@@ -9,8 +9,8 @@
   - Low level programming
 
 - 👨‍💻 I'm currently working as a full stack web dev with...
-  - Python
   - Perl
+  - Python
   - Javascript
   - CSS
   - HTML
@@ -19,6 +19,7 @@
   - Ansible
 
 - 🌱 I’m currently learning...
+  - Bash
   - Rust
   - Typescript
 
