@@ -6,7 +6,6 @@
   - neovim
   - Personal Development Environments
   - Scripting
-  - Low level programming
 
 - 👨‍💻 I'm currently working as a full stack web dev with...
   - Perl
