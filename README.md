@@ -7,21 +7,6 @@
   - Personal Development Environments
   - Scripting
 
-- 👨‍💻 I'm currently working as a full stack web dev with...
-  - Perl
-  - Python
-  - Javascript
-  - CSS
-  - HTML
-
-- 🥷 But also with...
-  - Ansible
-
-- 🌱 I’m currently learning...
-  - Bash
-  - Rust
-  - Typescript
-
 - 📫 How to reach me: 
   - pablosaavedra123@gmail.com
 
