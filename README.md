@@ -1,16 +1,11 @@
-<img align="right" src="https://gifimage.net/wp-content/uploads/2017/11/falling-leaves-gif-transparent-12.gif" />
+<img align="right" src="https://user-images.githubusercontent.com/52180403/227694614-2d35fd52-68ce-4a1d-afba-33ad70e7cd8a.gif" />
 
 - 👋 Hi, I’m Pablo Saavedra
 
 - 👀 I’m interested in...
   - neovim
-  - Personal Development Environments
+  - Personalized Development Environments
   - Scripting
 
 - 📫 How to reach me: 
   - pablosaavedra123@gmail.com
-
-<!---
-pablos123/pablos123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
