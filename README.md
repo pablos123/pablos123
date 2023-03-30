@@ -3,7 +3,6 @@
 - 👋 Hi, I’m Pablo Saavedra
 
 - 👀 I’m interested in...
-  - neovim
   - Personalized Development Environments
   - Scripting
 
