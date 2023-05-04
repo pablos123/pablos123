@@ -4,4 +4,4 @@
 
 <p align="center"> 👀 I'm interested in <em>Personalized Development Environments</em> and a lot more things. </p>
 
-<p align="center"> <a href="https://pablos123.github.io/" target="_blank"> link 🌳 </a> </p>
+<p align="center"> <a href="https://pablos123.github.io/"> link 🌳 </a> </p>
