@@ -1,10 +1,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/52180403/227694614-2d35fd52-68ce-4a1d-afba-33ad70e7cd8a.gif"/>
 
-- 👋 Hi, I’m Pablo Saavedra
+<p align="center"> 👋 Hi, I’m Pablo Saavedra. pablosaavedra123@gmail.com </p>
 
-- 👀 I’m interested in...
-  - Personalized Development Environments
-  - Scripting
+<p align="center"> 👀 I'm interested in _Personalized Development Environments_ and a lot more things. </p>
 
-- 📫 How to reach me: 
-  - pablosaavedra123@gmail.com
+<p align="center"> <a href="https://pablos123.github.io/"> link 🌳 </a> </p>
