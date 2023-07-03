@@ -4,6 +4,6 @@
 
 <p align="center"> 👀 I'm interested in <em>Personalized Development Environments</em> and a lot more things. </p>
 
-<p align="center"> <a href="https://pablos123.github.io/"> link 🌳 </a> </p>
+<p align="center"> <a href="https://pablos123.github.io/"> web page 🌐 </a> </p>
 
 <p align="center"> <a href="mailto:pablosaavedra123@gmail.com">send 📬</a> </p>
