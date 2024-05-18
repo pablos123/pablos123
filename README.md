@@ -5,5 +5,3 @@
 <p align="center">👀 I'm interested in <em>Personalized Development Environments</em> and a lot more things.</p>
 
 <p align="center"><a href="https://pablos123.github.io/">Web Page 🌐</a></p>
-
-<p align="center"><a href="mailto:pablosaavedra123@gmail.com">Send 📬</a></p>
