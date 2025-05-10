@@ -2,4 +2,4 @@
 
 <p align="center">👋 Hi, I’m Pablo Saavedra.</p>
 
-<p align="center"><a href="[https://pablos123.github.io/](https://pablos123.github.io/items/aboutme.html)">About me</a></p>
+<p align="center"><a href="https://pablos123.github.io/items/aboutme.html">About me</a></p>
