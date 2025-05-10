@@ -2,6 +2,4 @@
 
 <p align="center">👋 Hi, I’m Pablo Saavedra.</p>
 
-<p align="center">👀 I'm interested in <em>Personalized Development Environments</em> and a lot more things.</p>
-
-<p align="center"><a href="https://pablos123.github.io/">Web Page 🌐</a></p>
+<p align="center"><a href="[https://pablos123.github.io/](https://pablos123.github.io/items/aboutme.html)">About me</a></p>
